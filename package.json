@@ -1,0 +1,22 @@
+{
+  "name": "artifact_practice_b9.5.1",
+  "version": "1.0.0",
+  "description": "array_artifact_practice_b9.5.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikhailRyzhkin/artifact_practice_B9.5.1.git"
+  },
+  "author": "Mikhail Ryzhkin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MikhailRyzhkin/artifact_practice_B9.5.1/issues"
+  },
+  "homepage": "https://github.com/MikhailRyzhkin/artifact_practice_B9.5.1#readme",
+  "dependencies": {
+    "array": "^0.4.3"
+  }
+}
